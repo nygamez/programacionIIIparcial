@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386111648 source:c:\users\nuria\desktop\programacion 2\iii parcial\cadenas\cadena 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
